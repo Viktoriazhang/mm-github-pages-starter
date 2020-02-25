@@ -75,6 +75,9 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+header:
+  teaser: https://newcomers-network.de/wp-content/uploads/2019/10/business-3152586_1920-1.jpg
+
 footer:
   links:
     - label: "Twitter"
