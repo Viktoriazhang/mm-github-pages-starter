@@ -1,11 +1,11 @@
 ---
 permalink: /about/
-title: "About"
+title: "Tingyue Viktoria Zhang"
 layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/bio-photo.jpg
+  overlay_image: https://newcomers-network.de/wp-content/uploads/2019/10/business-3152586_1920-1.jpg
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
