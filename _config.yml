@@ -75,9 +75,6 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
-header:
-  teaser: https://newcomers-network.de/wp-content/uploads/2019/10/business-3152586_1920-1.jpg
-
 footer:
   links:
     - label: "Twitter"
@@ -102,10 +99,6 @@ defaults:
       comments: true
       share: true
       related: true
-      header:
-        overlay_color: "#000"
-        overlay_filter: "0.5"
-        overlay_image: https://www.amerisbank.com/AmerisBank/media/Banner-Images/Business.jpg?ext=.jpg
   # _pages
   - scope:
       path: "_pages"
