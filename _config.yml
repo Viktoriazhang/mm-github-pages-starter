@@ -60,7 +60,7 @@ author:
   bio    : "I want different so I know where it is"
   links:
     - label: "Linkedin"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/tingyue-viktoria-zhang-6598b8176"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
