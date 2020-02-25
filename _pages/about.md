@@ -10,7 +10,7 @@ header:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
- feature_row:
+feature_row:
   - image_path: /assets/images/bio-photo.jpg
     alt: "placeholder image 1"
     title: "Placeholder 1"
