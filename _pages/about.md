@@ -1,9 +1,8 @@
 ---
 permalink: /about/
 title: "Tingyue Viktoria Zhang"
-layout: home
+layout: default
 author_profile: true
-
 ---
 
 **Education:** 
