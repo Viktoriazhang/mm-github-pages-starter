@@ -11,7 +11,14 @@ tags:
 Final year Bachelor's student specializing in Marketing Strategy and Finance. 
 I am a highly self-motivated person who has an entrepreneurship mindset with skills and experience in Business and Product Development, Marketing Strategy, Financial Analysis and Modeling 
 
-**Primary Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. [Praesent libero](#). Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
+
+**Education:** 
+{: .notice--primary}
+
+**Primary Notice:** April 2017â€“ Present	
+Berlin School of Economics and Law
+Major: Bachelor of Business Administration
+Average grade: Distinction
 {: .notice--primary}
 
 ```ruby
