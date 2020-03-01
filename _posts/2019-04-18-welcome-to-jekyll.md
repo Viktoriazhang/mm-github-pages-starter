@@ -14,13 +14,21 @@ I am a highly self-motivated person who has an entrepreneurship mindset with ski
 
 **Education:** 
 {: .notice--primary}
-
-**Primary Notice:** April 2017â€“ Present	
+**April 2017- Present:** 	
 Berlin School of Economics and Law
 Major: Bachelor of Business Administration
 Average grade: Distinction
 {: .notice--primary}
-
+**April 2017- Present:** 	
+Berlin School of Economics and Law
+Major: Bachelor of Business Administration
+Average grade: Distinction
+{: .notice--primary}
+**April 2017- Present:** 	
+Berlin School of Economics and Law
+Major: Bachelor of Business Administration
+Average grade: Distinction
+{: .notice--primary}
 ```ruby
 def print_hi(name)
   puts "Hi, #{name}"
