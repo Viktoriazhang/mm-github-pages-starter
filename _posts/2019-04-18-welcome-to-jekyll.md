@@ -1,5 +1,4 @@
 ---
-read_time: false
 title: "About Me"
 categories:
   - blog
