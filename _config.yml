@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Viktoria Zhang
-email: test.email@gmail.com
+email: viktoriazhangty@gmail.com
 description: "I am amazing and I like coffee"
 twitter_username: username
 github_username: username
@@ -83,7 +83,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
