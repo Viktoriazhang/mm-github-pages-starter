@@ -1,4 +1,5 @@
 ---
+read_time: false
 title: "About Me"
 categories:
   - blog
@@ -28,6 +29,8 @@ Berlin School of Economics and Law
 Major: Bachelor of Business Administration
 Average grade: Distinction
 {: .notice--primary}
+
+
 
 
 
