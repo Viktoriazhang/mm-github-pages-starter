@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /Performance_Coach/
 title: "Tingyue Viktoria Zhang"
 layout: splash
 header:
