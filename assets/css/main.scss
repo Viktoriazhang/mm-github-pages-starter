@@ -1,6 +1,7 @@
 @charset "utf-8";
 
-$global-font-family: monospace
+$global-font-family: monospace;
+$link-color: red;
 
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
