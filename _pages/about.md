@@ -5,7 +5,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/1Gamified-Recession-Management=Workshop-1-2-2.pdf
+  overlay_image: /assets/images/Banner.png
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
