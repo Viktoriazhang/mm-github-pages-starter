@@ -1,7 +1,7 @@
 ---
  permalink: /Workshop/
  title: "Workshop"
- layout: splash
+ layout: simple
  header:
    image: /assets/images/ffbanner.jpg
  intro: 
