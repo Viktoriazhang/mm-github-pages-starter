@@ -1,7 +1,7 @@
 ---
 permalink: /Workshop/
 
-layout: single
+layout: splash
 header:
 overlay_image: /assets/images/banner1.png
  
