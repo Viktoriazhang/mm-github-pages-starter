@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /Workshop/
 title: "Tingyue Viktoria Zhang"
 layout: splash
 header:
