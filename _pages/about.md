@@ -3,8 +3,8 @@ permalink: /Workshop/
 
 layout: splash
 header:
-overlay_image: /assets/images/banner1.png
-![full](/assets/images/banner1.png)
+overlay_image:
+![full](/assets/images/ffbanner.png)
 {: .full}
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
