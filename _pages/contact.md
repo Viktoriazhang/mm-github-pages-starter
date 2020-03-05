@@ -1,0 +1,34 @@
+---
+title: "Posts by Tag"
+permalink: /contact
+layout: splash
+author_profile: true
+---
+
+<form
+  action="https://formspree.io/xayjvlyv"method="POST">
+  <label>
+    Your name:
+    <input type="text" name="_replyto">
+  </label>
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+  </label>
+  <label for="timely">Size of your company
+    <select name="timely" id="timely" required="">
+      <option value="Choose" selected="" disabled="">Choose</option>
+      <option value="1">15 or less</option>
+      <option value="16">16-40</option>
+      <option value="41">41-60</option>
+      <option value="61">61 or more</option>
+    </select>
+  </label>
+
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+
+  <button type="submit">Send</button>
+</form>
