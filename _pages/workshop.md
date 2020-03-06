@@ -3,7 +3,7 @@
  title: "Workshop"
  layout: single
  header:
-   image: /assets/images/ffbanner.jpg
+   image: /assets/images/newbanner.jpg
 
 ---
 
