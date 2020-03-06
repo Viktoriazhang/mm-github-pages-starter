@@ -19,8 +19,10 @@ To help companies to **minimise the damage of a possible economic downturn** 
 * Less Cognitive Biases
 * Better Solutions
 This is normal text. This is **bold**, this is *italic* 
- <a 
+ 
+ image: /assets/images/process.png
+
  ### Pdf Version ### 
-href="/assets/images/Gamified_RE_2_Papers.pdf" download>Download</a>
+ <a href="/assets/images/Gamified_RE_2_Papers.pdf" download>Download</a>
 
 
