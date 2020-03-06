@@ -21,5 +21,6 @@ To help companies to **minimise the damage of a possible economic downturn** 
 This is normal text. This is **bold**, this is *italic* 
  
  ### Pdf Version
- url: "/assets/images/Gamified_RE_2_Papers.pdf"
+ <a href="/assets/images/Gamified_RE_2_Papers.pdf" download>Download File</a>
+
 
