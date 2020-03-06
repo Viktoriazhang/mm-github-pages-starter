@@ -19,7 +19,7 @@ To help companies to **minimise the damage of a possible economic downturn** 
 * Less Cognitive Biases
 * Better Solutions
  
-<img src="/assets/images/process.pdf" alt="/assets/images/process.png"> 
+<img src="/assets/images/process.pdf" alt="/assets/images/process.png"style="width:500px;height:600px;"> 
 
 ***Pdf Version*** 
  <a href="/assets/images/Gamified_RE_2_Papers.pdf" download>Download</a>
