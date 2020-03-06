@@ -20,6 +20,6 @@ To help companies to **minimise the damage of a possible economic downturn** 
 * Better Solutions
 This is normal text. This is **bold**, this is *italic* 
  
+ ### Pdf Version
  url: "/assets/images/Gamified_RE_2_Papers.pdf"
- btn_label: "Pdf Version"
- btn_class: "btn--primary"
+
