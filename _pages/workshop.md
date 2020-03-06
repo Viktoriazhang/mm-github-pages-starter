@@ -3,7 +3,7 @@
  title: "Workshop"
  layout: single
  header:
-   image: /assets/images/newbanner.jpg
+   image: /assets/images/newbanner.png
 
 ---
 
