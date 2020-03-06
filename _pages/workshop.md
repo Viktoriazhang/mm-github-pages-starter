@@ -20,7 +20,7 @@ To help companies to **minimise the damage of a possible economic downturn** 
 * Better Solutions
 This is normal text. This is **bold**, this is *italic* 
  
-![alt text]image: /assets/images/process.png
+<img src="/assets/images/process.png" alt="/assets/images/process.png"> 
 
  ### Pdf Version ### 
  <a href="/assets/images/Gamified_RE_2_Papers.pdf" download>Download</a>
